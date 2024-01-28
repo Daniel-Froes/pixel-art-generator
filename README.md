@@ -2,7 +2,7 @@
 
 Vou te mostrar como construir um projeto de gerador de pixel art com JavaScript. Você também pode chamá-lo de aplicativo de pintura de pixel! ❗️
 
-# Captura de Tela
+# Screenshot
 Aqui está a captura de tela do projeto:
 
 ![captura de tela](screenshot.jpg)
